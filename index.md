@@ -4,9 +4,7 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start !!!
-
+Hello there my name is hao yuan. This is my Blog. ASBJDK;FVHSLNd>AFeqkhkvkbdaclnMX JFhvrwuohidclknjakebf;dacnlj.md ndcsnjz .mn>
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 

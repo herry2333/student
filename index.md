@@ -4,10 +4,48 @@ title: Student Blog
 ---
 
 
-Hello there my name is hao yuan. This is my Blog. ASBJDK;FVHSLNd>AFeqkhkvkbdaclnMX JFhvrwuohidclknjakebf;dacnlj.md ndcsnjz .mn>
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+Hello there my name is Hao Yuan. This is my Blog. 
+Here is the link to my [github account](https://github.com/herry2333)
+## My free draw picture
+<img src="images/for csp.jpg" alt="Girl in a jacket" width="500" height="1000">
+## About me
+-I live in China until I was in middle school
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+-I speak English and Chinese
+
+-I like to try everything new
+
+## My Class Schedule
+
+<table>
+  <tr>
+    <th>Class</th>
+    <th>Techer</th>
+    <th>room</th>
+  </tr>
+  <tr>
+    <td>STUDIO ART</td>
+    <td>Coleman, Patrick</td>
+    <td>P107</td>
+  </tr>
+  <tr>
+    <td>CHEM IN EARTH SYS 1</td>
+    <td>Eckman, Kyle J.</td>
+    <td>K102</td>
+  </tr>
+  <tr>
+    <td>AP HUMAN GEOGRAPHY</td>
+    <td>Roberts, Jodi J.</td>
+    <td>J118</td>
+  </tr>
+  <tr>
+    <td>AP CS PRINCIPLES</td>
+    <td>Mortensen, John C.</td>
+    <td>A151</td>
+  </tr>
+  <tr>
+    <td>ADVFUNC ANALYS 1</td>
+    <td>Edelstein, Scott A.</td>
+    <td>G101</td>
+  </tr>
+</table>
